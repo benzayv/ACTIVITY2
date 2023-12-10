@@ -1,5 +1,5 @@
 # ACTIVITY2
-<!DOCTYPE html>
+
 <html>
 <head>
 	<title>Non-Fictional Book Order List</title>
